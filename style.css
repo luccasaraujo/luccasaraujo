@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Roboto", sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.first_introduction {
+    background-color: #222;
+    color: white;
+    padding: 21px;
+    text-align: center;
+}
+
+.about-me{
+    background-color: #585858;
+    color: white;
+    padding: 21px;
+    text-align: center;
+}
+
+.studing{
+    background-color: #222;
+    color: white;
+    padding: 21px;
+    text-align: center;
+    list-style-position: inside
+}
+
+.contact{
+    background-color: #585858;
+    color: white;
+    padding: 21px;
+    text-align: center;
+}
+
+.contact a{
+    color: white;
+    text-decoration: none;
+}
