@@ -2,13 +2,13 @@
 
 body{
     font-family: "Roboto", sans-serif;
-    background-color: #f4f4f4;
+    background-color: #2b2b2b;
     margin: 0;
     padding: 0;
     overflow: hidden;
 }
 
-.first_introduction {
+/* .first_introduction {
     background-color: #222;
     color: white;
     padding: 21px;
@@ -40,4 +40,4 @@ body{
 .contact a{
     color: white;
     text-decoration: none;
-}
+} */
